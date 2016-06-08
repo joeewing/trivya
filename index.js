@@ -121,4 +121,3 @@ exports.handler = function (event, context) {
     var spaceGeek = new SpaceGeek();
     spaceGeek.execute(event, context);
 };
-
